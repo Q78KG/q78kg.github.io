@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Q78KGの博客</title>
+  
+  
+  <link href="https://q78kg.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://q78kg.github.io/"/>
+  <updated>2022-06-12T00:51:24.703Z</updated>
+  <id>https://q78kg.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《关于我的博客md文件渲染错误而我删库跑路这档事》</title>
+    <link href="https://q78kg.github.io/2022/06/12/%E3%80%8A%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2md%E6%96%87%E4%BB%B6%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF%E8%80%8C%E6%88%91%E5%88%A0%E5%BA%93%E8%B7%91%E8%B7%AF%E8%BF%99%E6%A1%A3%E4%BA%8B%E3%80%8B/"/>
+    <id>https://q78kg.github.io/2022/06/12/%E3%80%8A%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2md%E6%96%87%E4%BB%B6%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF%E8%80%8C%E6%88%91%E5%88%A0%E5%BA%93%E8%B7%91%E8%B7%AF%E8%BF%99%E6%A1%A3%E4%BA%8B%E3%80%8B/</id>
+    <published>2022-06-12T00:50:45.000Z</published>
+    <updated>2022-06-12T00:51:24.703Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《关于我的博客md文件渲染错误而我删库跑路这档事》"><a href="#《关于我的博客md文件渲染错误而我删库跑路这档事》" class="headerlink" title="《关于我的博客md文件渲染错误而我删库跑路这档事》"></a>《关于我的博客md文件渲染错误而我删库跑路这档事》</h1><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>2022年6月 10日，是个不幸的日子。那天打算上传文章的时候突然发现md文件渲染的index大小为0kb。</p><h2 id="经过"><a href="#经过" class="headerlink" title="经过"></a>经过</h2><p>当时我就很慌啊，推倒墙娘去谷歌嘎嘎乱搜。最后发现 ——发现了个寄。然后觉得这事解决不了，当时我就立即决定 删库跑路！</p><p>然后我就真的把Github pages仓库删了</p><h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p>没了，如你所见现在的博客就是重开之后的</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;《关于我的博客md文件渲染错误而我删库跑路这档事》&quot;&gt;&lt;a href=&quot;#《关于我的博客md文件渲染错误而我删库跑路这档事》&quot; class=&quot;headerlink&quot; title=&quot;《关于我的博客md文件渲染错误而我删库跑路这档事》&quot;&gt;&lt;/a&gt;《关于我的博客md文件</summary>
+      
+    
+    
+    
+    <category term="杂文" scheme="https://q78kg.github.io/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="随便写写" scheme="https://q78kg.github.io/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新建文章模板</title>
+    <link href="https://q78kg.github.io/2022/06/12/%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/"/>
+    <id>https://q78kg.github.io/2022/06/12/%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/</id>
+    <published>2022-06-11T23:38:45.000Z</published>
+    <updated>2022-06-12T00:53:59.288Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="新建文章模板"><a href="#新建文章模板" class="headerlink" title="新建文章模板"></a>新建文章模板</h1><p><code>- title: My awesome title date: 2016-10-12 18:38:45 categories:      - 分类1     - 分类2 tags:      - 标签1     - 标签2 mp3: http://domain.com/awesome.mp3 cover: http://domain.com/awesome.jpg ---</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;新建文章模板&quot;&gt;&lt;a href=&quot;#新建文章模板&quot; class=&quot;headerlink&quot; title=&quot;新建文章模板&quot;&gt;&lt;/a&gt;新建文章模板&lt;/h1&gt;&lt;p&gt;&lt;code&gt;- title: My awesome title date: 2016-10-12 18:38</summary>
+      
+    
+    
+    
+    <category term="模板" scheme="https://q78kg.github.io/categories/%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+    <category term="模板" scheme="https://q78kg.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://q78kg.github.io/2022/06/11/hello-world/"/>
+    <id>https://q78kg.github.io/2022/06/11/hello-world/</id>
+    <published>2022-06-11T14:18:56.218Z</published>
+    <updated>2022-06-11T14:18:56.218Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
