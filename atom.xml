@@ -6,7 +6,7 @@
   <link href="https://q78kg.github.io/atom.xml" rel="self"/>
   
   <link href="https://q78kg.github.io/"/>
-  <updated>2022-06-15T15:53:41.602Z</updated>
+  <updated>2022-06-15T15:53:41.000Z</updated>
   <id>https://q78kg.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://q78kg.github.io/2022/06/15/%E6%B7%BB%E5%8A%A0%E5%85%AC%E7%9B%8A404%E9%A1%B5%E9%9D%A2%E4%B9%8B%E5%90%8E%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/"/>
     <id>https://q78kg.github.io/2022/06/15/%E6%B7%BB%E5%8A%A0%E5%85%AC%E7%9B%8A404%E9%A1%B5%E9%9D%A2%E4%B9%8B%E5%90%8E%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/</id>
     <published>2022-06-15T15:52:34.000Z</published>
-    <updated>2022-06-15T15:53:41.602Z</updated>
+    <updated>2022-06-15T15:53:41.000Z</updated>
     
     <content type="html"><![CDATA[<p>愿每一尺灯火划破黑暗，愿每一寸星光照亮天穹 ——Q78KG</p>]]></content>
     
@@ -46,7 +46,7 @@
     <link href="https://q78kg.github.io/2022/06/13/%E3%80%8A%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2md%E6%96%87%E4%BB%B6%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF%E8%80%8C%E6%88%91%E5%88%A0%E5%BA%93%E8%B7%91%E8%B7%AF%E8%BF%99%E6%A1%A3%E4%BA%8B%E3%80%8B/"/>
     <id>https://q78kg.github.io/2022/06/13/%E3%80%8A%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2md%E6%96%87%E4%BB%B6%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF%E8%80%8C%E6%88%91%E5%88%A0%E5%BA%93%E8%B7%91%E8%B7%AF%E8%BF%99%E6%A1%A3%E4%BA%8B%E3%80%8B/</id>
     <published>2022-06-13T00:50:45.000Z</published>
-    <updated>2022-06-15T12:31:19.030Z</updated>
+    <updated>2022-06-15T12:31:19.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>2022年6月 10日，是个不幸的日子。那天打算上传文章的时候突然发现md文件渲染的index大小为0kb。</p><h2 id="经过"><a href="#经过" class="headerlink" title="经过"></a>经过</h2><p>当时我就很慌啊，推倒墙娘去谷歌嘎嘎乱搜。最后发现 ——发现了个寄。然后觉得这事解决不了，当时我就立即决定 删库跑路！</p><p>然后我就真的把Github pages仓库删了</p><h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p>没了，如你所见现在的博客就是重开之后的</p>]]></content>
     
@@ -71,7 +71,7 @@
     <link href="https://q78kg.github.io/2022/06/12/hello-world/"/>
     <id>https://q78kg.github.io/2022/06/12/hello-world/</id>
     <published>2022-06-12T00:50:45.000Z</published>
-    <updated>2022-06-15T12:31:53.739Z</updated>
+    <updated>2022-06-15T12:31:53.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
