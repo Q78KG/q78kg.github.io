@@ -6,7 +6,7 @@
   <link href="https://q78kg.github.io/atom.xml" rel="self"/>
   
   <link href="https://q78kg.github.io/"/>
-  <updated>2022-06-19T05:47:10.424Z</updated>
+  <updated>2022-06-28T11:26:38.622Z</updated>
   <id>https://q78kg.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>浅谈ACE虚拟歌姬</title>
-    <link href="https://q78kg.github.io/2022/06/19/%E6%B5%85%E8%B0%88ACE%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC/"/>
-    <id>https://q78kg.github.io/2022/06/19/%E6%B5%85%E8%B0%88ACE%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC/</id>
-    <published>2022-06-19T04:24:51.480Z</published>
-    <updated>2022-06-19T05:47:10.424Z</updated>
+    <link href="https://q78kg.github.io/2022/06/22/%E6%B5%85%E8%B0%88ACE%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC/"/>
+    <id>https://q78kg.github.io/2022/06/22/%E6%B5%85%E8%B0%88ACE%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC/</id>
+    <published>2022-06-22T04:54:30.507Z</published>
+    <updated>2022-06-28T11:26:38.622Z</updated>
     
     <content type="html"><![CDATA[<h2 id="请注意"><a href="#请注意" class="headerlink" title="请注意"></a>请注意</h2><ul><li>本文仅代表我的个人观点，请理性阅读，不喜勿喷</li><li>我自己也是一个SV小P主，V，SV，ACE包括其他引擎的虚拟歌手我基本上都听过，写这篇文章只是我个人感受的随笔</li></ul><h2 id="ACE虚拟歌姬是什么"><a href="#ACE虚拟歌姬是什么" class="headerlink" title="ACE虚拟歌姬是什么"></a>ACE虚拟歌姬是什么</h2><p>ACE虚拟歌姬（在PC和MacOS又称ACE Studio，简称ACE），是时域科技开发的语音合成软件</p><h4 id="官方发布的产品简介"><a href="#官方发布的产品简介" class="headerlink" title="官方发布的产品简介"></a>官方发布的产品简介</h4><ul><li><p>丰富的歌手类型，超拟真的合成效果</p></li><li><p>支持自制声线，创造无穷变化</p></li><li><p>高自由度调参系统，提升AI歌声表达力上限</p></li><li><p>Windows&#x2F;macOS双端可用，服务更专业的音乐创作需求</p></li></ul><h4 id="目前已公布的特性"><a href="#目前已公布的特性" class="headerlink" title="目前已公布的特性"></a>目前已公布的特性</h4><ul><li><p>自由创作歌曲</p><p>进入“自由创作”模式，点击屏幕上的按键，即可“弹奏”歌姬，创作或演绎好听的歌曲</p></li><li><p>虚拟歌姬调校</p><p>在“自由创作”模式中展开“调教”界面，即可拉起钢琴卷帘，调校歌曲</p></li><li><p>填词演唱</p><p>在“填词创作”模式中，翻填歌词，歌姬会自动为你演唱</p></li><li><p>AI歌声合成<br>支持实时AI歌声合成，歌姬演唱真实度无限接近人类，纵享美妙丝滑的听觉体验（<del>虽然某些歌手电噪还是很大</del></p></li><li><p>音视频导出<br>支持导出多种形式的音频文件，后期深加工超方便； 提供多种视频模板，录制的作品直接发小破站也不寒碜（<del>这不是个引擎就有吗</del></p></li><li><p>音乐创作社区<br>将创作的歌曲发布到ACE作品广场，以歌会友，收获粉丝</p></li></ul><p>PS：目前ACE移动端与主机端均处于内测阶段，暂未开放使用</p><h4 id="歌手列表（官方，不包含自制歌手截至至2022年6月17日）"><a href="#歌手列表（官方，不包含自制歌手截至至2022年6月17日）" class="headerlink" title="歌手列表（官方，不包含自制歌手截至至2022年6月17日）"></a>歌手列表（官方，不包含自制歌手截至至2022年6月17日）</h4><p>截至至2022年6月17日ACE官方发布了小夜、小酒仙、AC娘、小莫等共20位虚拟歌手</p><h2 id="未来发展方向"><a href="#未来发展方向" class="headerlink" title="未来发展方向"></a>未来发展方向</h2><p>众所周知，人声合成引擎的初衷就是为了还原人声，这一点ACE已经做的非常好了。据我目前听到的大部分歌曲，已经无法听出合成的感觉了，感觉完全就是一个真人在唱歌。作为一个后起之士，在很多层面上已经能和SV Studio等引擎肩并肩。在人声还原领域ACE在未来也许可以与SV同等甚至超越SV成为拟真度更高的引擎。在未来ACE可以在很多领域有所建树，我也期待这那一天。</p><h2 id="ACE与其他引擎的对比（以SV和V为例）"><a href="#ACE与其他引擎的对比（以SV和V为例）" class="headerlink" title="ACE与其他引擎的对比（以SV和V为例）"></a>ACE与其他引擎的对比（以SV和V为例）</h2><p>ACE与SV和V还是有很多不同之处，SV&#x2F;V都是非常吃技术的，我本人也是一个小P主，使用过一段时间的V，目前正在使用SV。</p><p>SV在调教的难易度来说比ACE要难，比V要简单。SV的初衷是让能使创作者在歌曲的创作中不受束缚，能最大化的发挥出创造力。目前使用体验而言这一点雀食达到了<del>然而我技术不太行</del>，在歌曲的创作上有很高的自由度和灵活度。</p><p>ACE目前与SV相比更像是一辆<del>不怎么好使但是快的很邪门的破</del>自行车与摩托车。ACE的初衷是想要以一种游戏化的方让普通人也能玩音乐。</p><h2 id="关于其中的歌手"><a href="#关于其中的歌手" class="headerlink" title="关于其中的歌手"></a>关于其中的歌手</h2><ul><li>这里挑选了几个官方视频比较多的还有看板娘</li></ul><h4 id="小夜"><a href="#小夜" class="headerlink" title="小夜"></a>小夜</h4><h6 id="官方人设"><a href="#官方人设" class="headerlink" title="官方人设"></a>官方人设</h6><ul><li><p>性别：女</p></li><li><p>年龄：17岁</p></li><li><p>源音提供：夏璃夜</p></li><li><p>发布时间（AI声库）：2021.1.1</p></li><li><p>传送日：7月20日</p></li><li><p>歌姬故事：</p><ul><li>小夜是一个校园引导机器人，经常收集学生们遗弃的可爱物品，她希望这些藏品可以帮助她成为一个真正的人类少女。可是不需要吃饭睡觉和娱乐的她，始终无法融入人类的生活。直到她发现，在唱歌的时候，她与人类有了真正的共鸣。于是小夜爱上了唱歌。</li></ul></li></ul><h6 id="人物立绘"><a href="#人物立绘" class="headerlink" title="人物立绘"></a>人物立绘</h6><p>小夜这个立绘，emmmmmm……继承了ACE其他歌手一贯的L2d风格。不过嘛，脸上这个不明所以的潮红，有点怪 。</p><p><del>跟本子封面一样</del></p><h4 id="火涟"><a href="#火涟" class="headerlink" title="火涟"></a>火涟</h4><h6 id="官方人设（时间线不会觉得有点架空魔幻世界内味吗"><a href="#官方人设（时间线不会觉得有点架空魔幻世界内味吗" class="headerlink" title="官方人设（时间线不会觉得有点架空魔幻世界内味吗"></a>官方人设（<del>时间线不会觉得有点架空魔幻世界内味吗</del></h6><ul><li><p>性别：女</p></li><li><p>年龄：未知</p></li><li><p>源音提供：Monna</p></li><li><p>发布时间（AI）：2021.7.31</p></li><li><p>传送日：8月27日</p></li><li><p>歌姬故事：</p><ul><li><p>2077年，火涟Karen出生，人类陷入第三次世界大战。<del>赛博朋克2077</del>（无端联想</p></li><li><p>2090年，人类启动歌姬计划，将少女培养、改造，在战场日夜不停地演唱战歌，从而坚定旷日持久战争下军队的决心。</p></li><li><p>13岁的火涟被选入歌姬计划，经过残酷的身体改造，被赋予钠核供能，投入战场。</p></li><li><p>2096年，某次战事中，火涟意外受损沉入地心。</p></li><li><p>在漫长的沉寂后，她被神秘的歌声唤醒，发现自己穿越回了2021年，失去了一切记忆，只有歌声能唤起她躯体原始的共鸣。于是她成为一名虚拟歌手，希望在歌声中找回自己……</p></li></ul></li></ul><h6 id="聆听感受"><a href="#聆听感受" class="headerlink" title="聆听感受"></a>聆听感受</h6><p>火涟的声线比较夹，并且十分高昂，而且性能非常好（<del>ACE的歌手大部分都很好</del>。在火涟出道曲《永恒之火》中火涟以高音使全曲激昂，但是当时还是有点虚。在半木生的《碎瓷假面》中火涟的声线神似乐正绫。（乐正绫：我高音一姐的地位要被抢了！</p><h6 id="人物立绘-1"><a href="#人物立绘-1" class="headerlink" title="人物立绘"></a>人物立绘</h6><p>怎么说呢，火涟的任务立绘与其他与火有关的歌姬一样，整体服饰都是红色。</p><h4 id="鸾明"><a href="#鸾明" class="headerlink" title="鸾明"></a>鸾明</h4><h6 id="官方人设-1"><a href="#官方人设-1" class="headerlink" title="官方人设"></a>官方人设</h6><ul><li><p>性别：女</p></li><li><p>年龄：17岁</p></li><li><p>生日：6月9日（双子座）</p></li><li><p>身高：170cm</p></li><li><p>源音提供：二米6</p></li><li><p>形象来自ACE设定征集活动，画师：鹣芝Gingeli</p></li><li><p>发布时间：2022.4.4</p></li><li><p>青鸾夜啼，碧天云明。</p></li><li><p>名字取自“妆台尘暗青鸾掩，宫树月明黄鸟啼。”</p></li><li><p>嗓音清澈明净的神族少女。青鸾神族的歌者，正因为要追逐梦想而离家出走中，神性与人性并存，有作为神族高傲的一面。</p></li><li><p>其他设定：平胸；双呆毛一前一后（非一左一右）；眼角双泪痣；耳机一般情况下不用（也不插线）用的时候会把帽子摘下来再戴上耳机。</p></li></ul><h6 id="聆听感受-1"><a href="#聆听感受-1" class="headerlink" title="聆听感受"></a>聆听感受</h6><p>在鹣芝Gingeli的鸾明原创曲《游鸾 》中，鸾明给我的感受是声音清澈，虽然官方的设定年龄是17岁，但声音却比较成熟。</p><h6 id="关于立绘"><a href="#关于立绘" class="headerlink" title="关于立绘"></a>关于立绘</h6><p>哇这个立绘真是蕨了，更加让我震惊的是，这个立绘的画师是一名初三党！</p><h4 id="洛天依AI"><a href="#洛天依AI" class="headerlink" title="洛天依AI"></a>洛天依AI</h4><p>洛天依AI是Vsinger洛天依的AI版本，相比V，洛天依AI的声线更加明快，似乎失去了原来软软的感觉。</p><h2 id="关于人物背景"><a href="#关于人物背景" class="headerlink" title="关于人物背景"></a>关于人物背景</h2><p>这个人物背景相比其他的人声合成引擎丰富了不少，与其他老牌的引擎相比这点做的比较好。嗯……丰富的背景可以发散创作者对于歌曲的想象力，但是有一点要创作者注意，不要让人物背景成为限制你创作风格的禁锢。</p><h2 id="关于歌手的改进"><a href="#关于歌手的改进" class="headerlink" title="关于歌手的改进"></a>关于歌手的改进</h2><ul><li>在听的过程中发现鸾明的所有Z、J、Q、X开头的音都是发浊音，希望这个是可调的</li><li>在听的过程中会有一些奇怪的电噪，这个我觉得是比较影响听歌体验的，包括现在放出来的几个歌手在内。</li><li>仍然是整音拼接问题，还是个早期版本的V一样，拼接的那种僵硬感还是可以听出来，有点上字不接下字的感觉（？</li></ul><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>这篇文章是我写的第一篇关于人声合成引擎的文章，本文只是有感而发，没有说偏向某一方。当时写这个文章的时候都头大，苦思冥想都不知道有什么要写的，后来叕反复听了几遍，然后我会跟拿个电钻在脑子上开个洞——开窍了一样写完了这篇文章。</p><h4 id="关于文章"><a href="#关于文章" class="headerlink" title="关于文章"></a>关于文章</h4><p>文章来自我的博客q78kg.github.io，有兴趣的小伙伴可以关注我的博客，我会时不时发一些好康的文章awa</p><p>本文章部分内容来自萌娘百科“ACE虚拟歌姬”条目</p>]]></content>
     
@@ -37,8 +37,6 @@
     
     <category term="虚拟歌手" scheme="https://q78kg.github.io/categories/%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B/"/>
     
-    <category term="杂文" scheme="https://q78kg.github.io/categories/%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B/%E6%9D%82%E6%96%87/"/>
-    
     
     <category term="虚拟歌手" scheme="https://q78kg.github.io/tags/%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B/"/>
     
@@ -49,7 +47,7 @@
     <link href="https://q78kg.github.io/2022/06/15/%E6%B7%BB%E5%8A%A0%E5%85%AC%E7%9B%8A404%E9%A1%B5%E9%9D%A2%E4%B9%8B%E5%90%8E%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/"/>
     <id>https://q78kg.github.io/2022/06/15/%E6%B7%BB%E5%8A%A0%E5%85%AC%E7%9B%8A404%E9%A1%B5%E9%9D%A2%E4%B9%8B%E5%90%8E%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/</id>
     <published>2022-06-15T15:52:34.000Z</published>
-    <updated>2022-06-15T15:53:41.000Z</updated>
+    <updated>2022-06-15T15:53:41.602Z</updated>
     
     <content type="html"><![CDATA[<p>愿每一尺灯火划破黑暗，愿每一寸星光照亮天穹 ——Q78KG</p>]]></content>
     
@@ -74,7 +72,7 @@
     <link href="https://q78kg.github.io/2022/06/13/%E3%80%8A%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2md%E6%96%87%E4%BB%B6%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF%E8%80%8C%E6%88%91%E5%88%A0%E5%BA%93%E8%B7%91%E8%B7%AF%E8%BF%99%E6%A1%A3%E4%BA%8B%E3%80%8B/"/>
     <id>https://q78kg.github.io/2022/06/13/%E3%80%8A%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2md%E6%96%87%E4%BB%B6%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF%E8%80%8C%E6%88%91%E5%88%A0%E5%BA%93%E8%B7%91%E8%B7%AF%E8%BF%99%E6%A1%A3%E4%BA%8B%E3%80%8B/</id>
     <published>2022-06-13T00:50:45.000Z</published>
-    <updated>2022-06-15T12:31:19.000Z</updated>
+    <updated>2022-06-28T11:24:32.569Z</updated>
     
     <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>2022年6月 10日，是个不幸的日子。那天打算上传文章的时候突然发现md文件渲染的index大小为0kb。</p><h2 id="经过"><a href="#经过" class="headerlink" title="经过"></a>经过</h2><p>当时我就很慌啊，推倒墙娘去谷歌嘎嘎乱搜。最后发现 ——发现了个寄。然后觉得这事解决不了，当时我就立即决定 删库跑路！</p><p>然后我就真的把Github pages仓库删了</p><h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p>没了，如你所见现在的博客就是重开之后的</p>]]></content>
     
@@ -99,7 +97,7 @@
     <link href="https://q78kg.github.io/2022/06/12/hello-world/"/>
     <id>https://q78kg.github.io/2022/06/12/hello-world/</id>
     <published>2022-06-12T00:50:45.000Z</published>
-    <updated>2022-06-15T12:31:53.000Z</updated>
+    <updated>2022-06-15T12:31:53.739Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
